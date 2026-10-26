@@ -3,7 +3,7 @@
  * Plugin Name:       WooCommerce Anti Fraud
  * Plugin URI:        https://www.contentpowered.com
  * Description:       Catches fraudulent WooCommerce orders before you ship them: device fingerprints, WebRTC proxy leak checks, copy-paste detection, IP intelligence and a 0-100 risk score on every order.
- * Version:           1.0.0
+ * Version:           1.1.0
  * Requires at least: 5.8
  * Requires PHP:      7.2
  * Requires Plugins:  woocommerce
