@@ -44,6 +44,7 @@ unset( $woocommerce_anti_fraud_headers );
 require_once WOOCOMMERCE_ANTI_FRAUD_DIR . 'includes/class-woocommerce-anti-fraud-icons.php';
 require_once WOOCOMMERCE_ANTI_FRAUD_DIR . 'includes/class-woocommerce-anti-fraud-updater.php';
 require_once WOOCOMMERCE_ANTI_FRAUD_DIR . 'includes/class-woocommerce-anti-fraud-menu.php';
+require_once WOOCOMMERCE_ANTI_FRAUD_DIR . 'includes/class-woocommerce-anti-fraud-feedback.php';
 require_once WOOCOMMERCE_ANTI_FRAUD_DIR . 'includes/class-woocommerce-anti-fraud-install.php';
 require_once WOOCOMMERCE_ANTI_FRAUD_DIR . 'includes/class-woocommerce-anti-fraud-request.php';
 require_once WOOCOMMERCE_ANTI_FRAUD_DIR . 'includes/class-woocommerce-anti-fraud-ip-intel.php';

@@ -52,6 +52,8 @@ Mobile carriers and iCloud Private Relay share IPs between strangers and rotate 
 
 Find it under Content Powered > WooCommerce Anti Fraud in the admin menu.
 
+Found a bug or have an idea? Use Content Powered > Report a Bug or Content Powered > Submit Feedback to send it straight to us.
+
 = Credits =
 
 * IP data from [ipinfo.io](https://ipinfo.io).

@@ -61,6 +61,7 @@ final class WooCommerce_Anti_Fraud_Admin {
 		$this->plugin = $plugin;
 
 		WooCommerce_Anti_Fraud_Menu::init();
+		WooCommerce_Anti_Fraud_Feedback::init();
 
 		add_action( 'admin_menu', array( $this, 'register_menu' ) );
 		add_action( 'admin_init', array( $this, 'register_settings' ) );
