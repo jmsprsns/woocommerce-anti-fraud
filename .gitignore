@@ -1,6 +1,6 @@
-# Dependencies
+# Dependencies (root only: plugin-update-checker/vendor/ must ship, or update checks fail)
 node_modules/
-vendor/
+/vendor/
 
 # Runtime cache
 __pycache__/
